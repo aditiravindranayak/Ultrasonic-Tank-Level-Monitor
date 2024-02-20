@@ -45,7 +45,7 @@ This project implements an ultrasonic tank level monitoring system using an Ardu
    - Use Python and libraries like NumPy, Matplotlib, or Pandas for data analysis if required.
    - Collaborate on data analysis tasks using Google Colab for sharing and collaborative editing.
 
-### Screenshots:
+#### Screenshots:
 
 <img width="950" alt="1" src="https://github.com/aditiravindranayak/Ultrasonic-Tank-Level-Monitor/assets/109815646/b57d1438-4981-4c3c-a23b-6d92e6f016fd">
 
