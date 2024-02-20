@@ -45,6 +45,14 @@ This project implements an ultrasonic tank level monitoring system using an Ardu
    - Use Python and libraries like NumPy, Matplotlib, or Pandas for data analysis if required.
    - Collaborate on data analysis tasks using Google Colab for sharing and collaborative editing.
 
+Screenshots:
+
+<img width="950" alt="1" src="https://github.com/aditiravindranayak/Ultrasonic-Tank-Level-Monitor/assets/109815646/b57d1438-4981-4c3c-a23b-6d92e6f016fd">
+
+
+<img width="950" alt="2" src="https://github.com/aditiravindranayak/Ultrasonic-Tank-Level-Monitor/assets/109815646/43cd84e7-a3fb-4a76-bb35-069bf70ba28d">
+
+
 #### Usage:
 - Power on the Arduino board and observe the behavior of the LEDs indicating the tank level.
 - Monitor the serial output for real-time feedback on the tank level.
