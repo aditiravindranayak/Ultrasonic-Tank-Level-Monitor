@@ -53,10 +53,11 @@ This project implements an ultrasonic tank level monitoring system using an Ardu
 <img width="950" alt="2" src="https://github.com/aditiravindranayak/Ultrasonic-Tank-Level-Monitor/assets/109815646/43cd84e7-a3fb-4a76-bb35-069bf70ba28d">
 
 How It Works:
+
 The sketch reads the distance measured by the ultrasonic sensor.
-Based on the distance, it determines whether the tank is full or empty.
-If the tank is full (distance <= 40), it activates two output pins (8 and 9) and plays a tone.
-If the tank is empty (distance >= 300), it deactivates one of the output pins (8).
+- Based on the distance, it determines whether the tank is full or empty.
+- If the tank is full (distance <= 40), it activates two output pins (8 and 9) and plays a tone.
+- If the tank is empty (distance >= 300), it deactivates one of the output pins (8).
 
 #### Usage:
 - Power on the Arduino board and observe the behavior of the LEDs indicating the tank level.
